@@ -1,0 +1,6 @@
+{
+  "name": "AURA | Curated Goods & Admin Store Manager",
+  "description": "A refined, responsive e-commerce shopping experience with a full-featured real-time Admin Management Panel for catalog CRUD, inventory, order processing, and sales analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
